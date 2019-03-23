@@ -8,7 +8,7 @@
 #define condition4count 3
 #define condition5count 2
 #define FUNC_ANS 16
-
+#define Fuck_you 9001
 //Prototype functions
 void read_func(int Array[SIZE],int counter);
 int read_check(int Array[SIZE], int counter, int check);
